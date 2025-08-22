@@ -4,6 +4,9 @@
 plugin mannager
 `:Lazy`
 
+LSP
+`:Mason`
+
 ファイル探す
 `,ff`
 
