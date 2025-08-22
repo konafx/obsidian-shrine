@@ -10,10 +10,10 @@ plugin mannager
 ターミナルを開く
 `,tc`, `,tt`など
 
-fold, open
-`zo`,
+## 閲覧
+`zo`: fold, open
 
 ## 移動
 motion lead key: `m`
-`m<Space>`: fuzzymotion
-`mj`: jumpcursor
+- `m<Space>`: fuzzymotion
+- `mj`: jumpcursor
