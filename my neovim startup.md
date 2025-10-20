@@ -1,20 +1,23 @@
 全く触ってないために操作を忘れているため、
 懇切丁寧に操作を教えるページ
 
-plugin mannager
+#vim
+
+### Plugin mannager
 `:Lazy`
 
-LSP
+### LSP
 `:Mason`
 
-ファイル探す
+### ファイルを探す
 `,ff`
 
-ターミナルを開く
+### ターミナルを開く
 `,tc`, `,tt`など
 
 ## 閲覧
-`zo`: fold, open
+### [fold](https://vim-jp.org/vimdoc-ja/fold.html)
+- `zo`: fold open
 
 ## 移動
 motion lead key: `m`
