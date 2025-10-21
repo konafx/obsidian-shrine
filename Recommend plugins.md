@@ -1,3 +1,4 @@
+#obsidian-plugin 
 ### File indicators
 見た目（シンプル）
 ### Iconize
